@@ -1,5 +1,5 @@
 ## Hi there, I`m Irina Kochergina 👋
-# I am a Data Analyst and now I`m looking for a job.
+### I am a Data Analyst and now I`m looking for a job.
 
 📞 89158788131
 <!--
