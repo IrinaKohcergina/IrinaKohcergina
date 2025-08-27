@@ -1,5 +1,5 @@
 ## Hi there, I`m Irina Kochergina 👋
-### I am a Data Analyst and now I`m looking for a job.
+### I am a Data Analyst
 
 💻**Skills**:  
 -  Python (pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly, folium)
